@@ -22,7 +22,7 @@ The environment where this tests are run is the [December Labs Staging Environme
 First of all, clone the project into your local machine
 
 ```bash
-  git clone hhttps://github.com/palomaquiroz/Cypress-Houston-Office
+  git clone https://github.com/palomaquiroz/Cypress-Houston-Office
 ```
 
 Once that is done, go to the project directory
