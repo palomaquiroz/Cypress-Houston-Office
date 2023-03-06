@@ -2,7 +2,7 @@
 
 # CYPRESS AUTOMATION SUITE FOR HOUSTON OFFICE WEBPAGE
 
-This is the automation suite for the Careers page of December Labs webpage.  
+This is the automation suite for the Houston Office webpage.  
 Framework used was [Cypress](https://www.cypress.io/).  
 In this suite, you will find tests for:
 * Validating that the December Labs webpage displays correctly
