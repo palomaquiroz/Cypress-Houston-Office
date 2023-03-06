@@ -43,7 +43,9 @@ Run the tests by using
   npm run test
 ```
 
-A UI will open up where you'll see a folder with the file HoustonOfficePage.cy.js  
+A UI will open up.
+If it's your first time using Cypress latest version, you will have to click on 'Continue' on the initial form that shows up.  
+After that (or if you've already used cypress latest version before), you'll see a folder with the file HoustonOfficePage.cy.js  
 Click on it to run the tests
 
 If you want to see the code in your local machine, open it with the following command.
